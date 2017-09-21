@@ -10,10 +10,11 @@ namespace TravisSample
     {
         public int Add(int x, int y)
         {
+            var a = 1;
             return x + y;
+            
         }
-        a
-
+        
         public int Subtract(int x, int y)
         {
             return x - y;
