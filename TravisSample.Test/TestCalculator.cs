@@ -18,7 +18,7 @@ namespace TravisSample.Test
             _cal = new Calculator();
         }
 
-        [TestCase(1,2,3)]
+        [TestCase(1,2,4)]
         [TestCase(1,4,5)]
         [TestCase(3,2,5)]
         [TestCase(1,7,8)]
